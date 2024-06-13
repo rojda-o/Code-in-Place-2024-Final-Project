@@ -1,5 +1,5 @@
 # Baby Snake Game
-This is my final project for Stanford University's online course Code in Place 2024. <br<
+This is my final project for Stanford University's online course Code in Place 2024. <br>
 This python program is a simple version of the famous snake game. <br>
 The program includes most of Code in Place's course lectures such as lists, loops, random library and graphics.
 
@@ -15,6 +15,11 @@ Score increases with each piece of food the snake eats. The score is usually dis
 Game Over: <br>
 The game ends if the snake runs into the walls or its own body.
 
+## Other Information
+I am deeply thankful for the greate learning experience during Code in Place 2024.<br>
+Since I am new at Python and programming, my project is relatively straightforward and simple. <br>
+I eagerly anticipate the opportunities to grow and evolve.<br><br>
+Here are images from the game <br> <br>
 ![](game1.png)
 ![](game2.png)
 
