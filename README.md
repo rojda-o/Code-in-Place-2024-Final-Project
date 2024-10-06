@@ -16,10 +16,10 @@ Game Over: <br>
 The game ends if the snake runs into the walls or its own body.
 
 ## Other Information
-I am deeply thankful for the greate learning experience during Code in Place 2024.<br>
+I am deeply thankful for the amazing learning experience during Code in Place 2024.<br>
 Since I am new at Python and programming, my project is relatively straightforward and simple. <br>
 I eagerly anticipate the opportunities to grow and evolve.<br><br>
-Here are images from the game <br> <br>
+Here are some images from the game <br> <br>
 ![](game1.png)
 ![](game2.png)
 
