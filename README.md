@@ -20,6 +20,6 @@ I am deeply thankful for the amazing learning experience during Code in Place 20
 Since I am new at Python and programming, my project is relatively straightforward and simple. <br>
 I eagerly anticipate the opportunities to grow and evolve.<br><br>
 Here are some images from the game <br> <br>
-![](game1.png)
-![](game2.png)
+<img src="game1.png" width="400">
+<img src="game2.png" width="400">
 
