@@ -1,6 +1,6 @@
 # Baby Snake Game
 This is my final project for Stanford University's online course Code in Place 2024. <br>
-This python program is a simple version of the famous snake game. <br>
+This Python program is a simple version of the famous snake game. <br>
 The program includes most of Code in Place's course lectures such as lists, loops, random library and graphics.
 
 ## Instructions
